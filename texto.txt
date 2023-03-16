@@ -1,4 +1,4 @@
 arquivo de texto para exercicio de git.
-<<<<<<< HEAD
+
 Eu fiz uma modificaçao na web e agora local
 
