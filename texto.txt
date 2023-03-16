@@ -1,1 +1,2 @@
 arquivo de texto para exercicio de git.
+Eu fiz uma modificaçao na web e agora local
